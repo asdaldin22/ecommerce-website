@@ -1,2 +1,2 @@
 # ecommerce-website
-E-Commerce Website Project
+E-Commerce Website Project using HTML CSS Js
